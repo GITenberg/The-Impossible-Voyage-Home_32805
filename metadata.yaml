@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26832
     wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32805#The-Impossible-Voyage-Home
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
 identifiers:
